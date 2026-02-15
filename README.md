@@ -41,7 +41,7 @@ frontend/         # React frontend application
    pip install -r requirements.txt
    ```
 
-3. Configure your environment settings in `utilities/config.py`
+## 3. Configure your environment settings in `utilities/config.py`
 
 4. Run the backend server:
    ```bash
