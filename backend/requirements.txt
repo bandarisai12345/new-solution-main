@@ -1,0 +1,11 @@
+fastapi==0.128.4
+uvicorn==0.30.0
+pydantic==2.8.2
+ollama==0.3.3
+langgraph==0.1.0
+sentence-transformers==3.0.1
+pinecone-client==4.1.1
+pandas==2.2.0
+numpy==1.24.3
+sqlite3-python==1.0.0
+python-multipart==0.0.6
