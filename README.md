@@ -82,7 +82,7 @@ The application will open at `http://localhost:3000`
 
 - **Python**: FastAPI, SQLAlchemy, embeddings
 - **React**: JavaScript, CSS for UI
-- **Database**: SQLite/PostgreSQL compatible
+- **Database**: SQLite
 - **ML**: Vector embeddings, semantic search
 
 
