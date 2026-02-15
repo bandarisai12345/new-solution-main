@@ -27,7 +27,9 @@ frontend/         # React frontend application
 - Python 3.11.5
 - Node.js 14+
 - npm
-- Model - phi3 (ollama)
+- Model - phi3 (ollama) {Install Ollama locally}
+- Vector DB - Pinecone
+- DB - SQLlite
 
 ### Backend Setup
 
