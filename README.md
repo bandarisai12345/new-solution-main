@@ -26,7 +26,7 @@ frontend/         # React frontend application
 
 - Python 3.11.5
 - Node.js 14+
-- npm or yarn
+- npm 
 
 ### Backend Setup
 
