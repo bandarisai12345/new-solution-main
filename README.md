@@ -24,7 +24,7 @@ frontend/         # React frontend application
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.11.5
 - Node.js 14+
 - npm or yarn
 
