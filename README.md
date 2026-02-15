@@ -26,7 +26,8 @@ frontend/         # React frontend application
 
 - Python 3.11.5
 - Node.js 14+
-- npm 
+- npm
+- Model - phi3 (ollama)
 
 ### Backend Setup
 
