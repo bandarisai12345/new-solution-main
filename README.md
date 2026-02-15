@@ -29,7 +29,7 @@ frontend/         # React frontend application
 - npm
 - Model - phi3 (ollama) {Install Ollama locally}
 - Vector DB - Pinecone
-- DB - SQLlite
+- DB - sqlite3
 
 ### Backend Setup
 
